@@ -200,6 +200,20 @@ i {
   left: calc(50% - 190px);
   border-radius: 4px;
   box-shadow: 0 0 8px 2px #666;
+  animation-duration: 1.2s;
+  animation-name: slidein;
+  animation-fill-mode: both;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes slidein {
+  from {
+    transform: translateY(-100%);
+  }
+
+  to {
+   transform: none;
+  }
 }
 
 .title {
