@@ -3,8 +3,8 @@
  You can visit the game in https://angelabenavente.github.io/DicePigGame/
  
  # Dice Pig Game:
- A simple and customizable dice game for two players where you must try to be the first to get the final score.
- At first, you must choose the winner score. Then you can rolling your dice with a click! 
+ A simple and customizable dice game for two players. You must try to be the first to get the final score.
+ At first, you must choose the winner score. Then you can rolling your dice with a click! Do you dare? 
  
  Designed for practising JS.
 
