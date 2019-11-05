@@ -1,6 +1,4 @@
-
- 
- You can visit the game in https://angelabenavente.github.io/DicePigGame/
+ ![DicePigGame](readme-image.png)
  
  # Dice Pig Game:
  A simple and customizable dice game for two players. You must try to be the first to get the final score.
